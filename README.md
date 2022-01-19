@@ -28,5 +28,5 @@ Put in practice the concepts that I've learnt about React.
 
 ## Setup
 
-To view the project, click [here](#).
+To view the project, download the folder.
 
