@@ -28,5 +28,5 @@ Put in practice the concepts that I've learnt about React.
 
 ## Setup
 
-To view the project, download the repository.
+To view the project, click [here](https://pam-todo-app.netlify.app/).
 
